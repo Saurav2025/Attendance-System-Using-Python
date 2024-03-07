@@ -1,0 +1,9 @@
+pip install opencv-python
+
+https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+
+pip install numpy
+
+pip install opencv-contrib-python
+
+https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
